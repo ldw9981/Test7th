@@ -1,0 +1,8 @@
+ublc static void[string] {
+nt a;
+nt b;
+ + b = i c;
+
+
+eturn c;
+
