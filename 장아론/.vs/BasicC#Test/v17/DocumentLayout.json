@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Test7th\\\uC7A5\uC544\uB860\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4016BB5A-D15E-451F-A7FF-438AEEB6BBF2}|BasicC#Test\\BasicC#Test.csproj|d:\\test7th\\\uC7A5\uC544\uB860\\basicc#test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4016BB5A-D15E-451F-A7FF-438AEEB6BBF2}|BasicC#Test\\BasicC#Test.csproj|solutionrelative:basicc#test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4016BB5A-D15E-451F-A7FF-438AEEB6BBF2}|BasicC#Test\\BasicC#Test.csproj|d:\\test7th\\\uC7A5\uC544\uB860\\basicc#test\\basicc#test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4016BB5A-D15E-451F-A7FF-438AEEB6BBF2}|BasicC#Test\\BasicC#Test.csproj|solutionrelative:basicc#test\\basicc#test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Test7th\\\uC7A5\uC544\uB860\\BasicC#Test\\Program.cs",
+              "RelativeDocumentMoniker": "BasicC#Test\\Program.cs",
+              "ToolTip": "D:\\Test7th\\\uC7A5\uC544\uB860\\BasicC#Test\\Program.cs",
+              "RelativeToolTip": "BasicC#Test\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAArwA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T01:06:23.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasicC#Test",
+              "DocumentMoniker": "D:\\Test7th\\\uC7A5\uC544\uB860\\BasicC#Test\\BasicC#Test.csproj",
+              "RelativeDocumentMoniker": "BasicC#Test\\BasicC#Test.csproj",
+              "ToolTip": "D:\\Test7th\\\uC7A5\uC544\uB860\\BasicC#Test\\BasicC#Test.csproj",
+              "RelativeToolTip": "BasicC#Test\\BasicC#Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-06T01:06:13.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

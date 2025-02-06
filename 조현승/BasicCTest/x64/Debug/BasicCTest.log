@@ -1,0 +1,10 @@
+﻿  BasicCTest.cpp
+D:\Test7th\조현승\BasicCTest\BasicCTest.cpp(11,6): error C2601: 'add': 지역 함수 정의가 잘못되었습니다.
+      D:\Test7th\조현승\BasicCTest\BasicCTest.cpp(4,1):
+      이 줄에 짝이 되지 않는 '{'가 들어 있습니다.
+  
+D:\Test7th\조현승\BasicCTest\BasicCTest.cpp(22,6): error C2601: 'sum': 지역 함수 정의가 잘못되었습니다.
+      D:\Test7th\조현승\BasicCTest\BasicCTest.cpp(4,1):
+      이 줄에 짝이 되지 않는 '{'가 들어 있습니다.
+  
+D:\Test7th\조현승\BasicCTest\BasicCTest.cpp(27,22): error C2065: 'null': 선언되지 않은 식별자입니다.
