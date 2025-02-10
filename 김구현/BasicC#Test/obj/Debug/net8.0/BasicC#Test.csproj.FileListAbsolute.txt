@@ -1,0 +1,15 @@
+D:\Test7th\김구현\BasicC#Test\bin\Debug\net8.0\BasicC#Test.exe
+D:\Test7th\김구현\BasicC#Test\bin\Debug\net8.0\BasicC#Test.deps.json
+D:\Test7th\김구현\BasicC#Test\bin\Debug\net8.0\BasicC#Test.runtimeconfig.json
+D:\Test7th\김구현\BasicC#Test\bin\Debug\net8.0\BasicC#Test.dll
+D:\Test7th\김구현\BasicC#Test\bin\Debug\net8.0\BasicC#Test.pdb
+D:\Test7th\김구현\BasicC#Test\obj\Debug\net8.0\BasicC#Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test7th\김구현\BasicC#Test\obj\Debug\net8.0\BasicC#Test.AssemblyInfoInputs.cache
+D:\Test7th\김구현\BasicC#Test\obj\Debug\net8.0\BasicC#Test.AssemblyInfo.cs
+D:\Test7th\김구현\BasicC#Test\obj\Debug\net8.0\BasicC#Test.csproj.CoreCompileInputs.cache
+D:\Test7th\김구현\BasicC#Test\obj\Debug\net8.0\BasicC#Test.sourcelink.json
+D:\Test7th\김구현\BasicC#Test\obj\Debug\net8.0\BasicC#Test.dll
+D:\Test7th\김구현\BasicC#Test\obj\Debug\net8.0\refint\BasicC#Test.dll
+D:\Test7th\김구현\BasicC#Test\obj\Debug\net8.0\BasicC#Test.pdb
+D:\Test7th\김구현\BasicC#Test\obj\Debug\net8.0\BasicC#Test.genruntimeconfig.cache
+D:\Test7th\김구현\BasicC#Test\obj\Debug\net8.0\ref\BasicC#Test.dll
